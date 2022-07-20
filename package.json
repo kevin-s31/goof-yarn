@@ -5,7 +5,7 @@
   "homepage": "https://snyk.io/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Snyk/snyk-todo-list-demo-app/"
+    "url": "https://github.com/kevin-s31/goof-yarn/"
   },
   "scripts": {
     "start": "node app.js",
